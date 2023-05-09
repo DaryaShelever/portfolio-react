@@ -1,8 +1,22 @@
+import "./styles/main.css";
+
+
+import Navbar from "./components/navbar/Navbar";
+import Footer from "./components/footer/Footer";
+import Home from "./pages/Home";
+
 function App() {
   return (
     <div className="App">
-    <h1>helow</h1>
+   
+      <Navbar/>
+   
+      <Home/>
+  
+      <Footer/>
+
     </div>
+    
   );
 }
 
