@@ -59,3 +59,4 @@ const projects =[
         imgBig: project06Big, 
     },
 ];
+export {projects}  ;
