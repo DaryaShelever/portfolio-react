@@ -20,40 +20,40 @@ import project06Big from './../img/projects/06-big.jpg';
 const projects =[
 
     {
-        title: 'Gaming streaming portal',
+        title: 'Gaming streaming portal - for sample ',
         skills:'React, Node.js, Mongo.DB', 
         img: project01, 
         imgBig: project01Big, 
         gitHubLink:'https://github.com/DaryaShelever',
     },
     {
-        title: 'Video service',
+        title: 'Video service - for sample',
         skills:'React, Node.js, Mongo.DB', 
         img: project02, 
         imgBig: project02Big, 
         gitHubLink:'https://github.com/DaryaShelever',
     },
     {
-        title: 'Video portal',
+        title: 'Video portal - for sample',
         skills:'React, Node.js, Mongo.DB', 
         img: project03, 
         imgBig: project03Big, 
         gitHubLink:'https://github.com/DaryaShelever',
     },
     {
-        title: 'Dating app',
+        title: 'Dating app - for sample',
         skills:'React, Node.js, Mongo.DB', 
         img: project04, 
         imgBig: project04Big, 
     },
     {
-        title: 'Landing',
+        title: 'Landing - for sample',
         skills:'React, Node.js, Mongo.DB', 
         img: project05, 
         imgBig: project05Big, 
     },
     {
-        title: 'Gaming community',
+        title: 'Gaming community - for sample',
         skills:'React, Node.js, Mongo.DB', 
         img: project06, 
         imgBig: project06Big, 
