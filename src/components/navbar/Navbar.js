@@ -11,7 +11,7 @@ const Navbar = ()  => {
     return ( <nav className="nav">
     <div className="container">
         <div className="nav-row">
-            <NavLink to="/" className="logo">
+            <NavLink to="/portfolio-react/" className="logo">
                 <strong>Freelancer</strong> portfolio
             </NavLink>
 
@@ -19,18 +19,18 @@ const Navbar = ()  => {
 
             <ul className="nav-list">
             <li className="nav-list__item">
-                <NavLink to="/" className= {({isActive})=> isActive ? activeLink : normalLink }>
+                <NavLink to="/portfolio-react/" className= {({isActive})=> isActive ? activeLink : normalLink }>
                     Home
                 </NavLink>
             </li>
 
             <li className="nav-list__item">
-                <NavLink to="/projects" className= {({isActive})=> isActive ? activeLink : normalLink }>
+                <NavLink to="/portfolio-react/projects" className= {({isActive})=> isActive ? activeLink : normalLink }>
                     Projects
                 </NavLink>
             </li>
             <li className="nav-list__item">
-                <NavLink to="/contacts" className= {({isActive})=> isActive ? activeLink : normalLink }>
+                <NavLink to="/portfolio-react/contacts" className= {({isActive})=> isActive ? activeLink : normalLink }>
                     Contacts
                 </NavLink>     
             </li>
