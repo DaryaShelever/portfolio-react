@@ -18,10 +18,10 @@ function App() {
       
       <Navbar/>
       <Routes>
-        <Route path="/" element={<Home/>}/>
-        <Route path="/projects" element={<Projects/>}/>
-        <Route path="/project/:id" element={<Project/>}/>
-        <Route path="/contacts" element={<Contacts/>}/>
+        <Route path="/portfolio-react/" element={<Home/>}/>
+        <Route path="/portfolio-react/projects" element={<Projects/>}/>
+        <Route path="/portfolio-react/project/:id" element={<Project/>}/>
+        <Route path="/portfolio-react/contacts" element={<Contacts/>}/>
       </Routes>
       <Footer/>
     </Router>
