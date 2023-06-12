@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.aa86e99c.css",
-    "main.js": "/portfolio-react/static/js/main.61448fda.js",
+    "main.js": "/portfolio-react/static/js/main.667ce05a.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/04-big.jpg": "/portfolio-react/static/media/04-big.9dc8caf822c4a4116af4.jpg",
     "static/media/01-big.jpg": "/portfolio-react/static/media/01-big.ecb03349664096d93b17.jpg",
@@ -9,6 +9,7 @@
     "static/media/05-big.jpg": "/portfolio-react/static/media/05-big.f315645c87f1dfe5c2c6.jpg",
     "static/media/02-big.jpg": "/portfolio-react/static/media/02-big.55e8268286a008f0aa84.jpg",
     "static/media/06-big.jpg": "/portfolio-react/static/media/06-big.51b90ae43fdfcf0ab077.jpg",
+    "static/media/cvDaryaShelever.pdf": "/portfolio-react/static/media/cvDaryaShelever.2f8b155f4c3c394ecce2.pdf",
     "static/media/04.jpg": "/portfolio-react/static/media/04.da38cca11cede6d4ef43.jpg",
     "static/media/01.jpg": "/portfolio-react/static/media/01.793b5447d182a00fa739.jpg",
     "static/media/03.jpg": "/portfolio-react/static/media/03.a1f0cefe3665b6313065.jpg",
@@ -23,11 +24,11 @@
     "static/media/linkedIn.svg": "/portfolio-react/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/portfolio-react/index.html",
     "main.aa86e99c.css.map": "/portfolio-react/static/css/main.aa86e99c.css.map",
-    "main.61448fda.js.map": "/portfolio-react/static/js/main.61448fda.js.map",
+    "main.667ce05a.js.map": "/portfolio-react/static/js/main.667ce05a.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa86e99c.css",
-    "static/js/main.61448fda.js"
+    "static/js/main.667ce05a.js"
   ]
 }
