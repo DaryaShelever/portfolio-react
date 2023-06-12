@@ -12,7 +12,7 @@ const Navbar = ()  => {
     <div className="container">
         <div className="nav-row">
             <NavLink to="/portfolio-react/" className="logo">
-                <strong>Freelancer</strong> portfolio
+                <strong>Trial </strong> portfolio
             </NavLink>
 
            <BtnDarkMode/>
